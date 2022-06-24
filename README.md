@@ -3,11 +3,11 @@
 
 My solutions for CodeWars katas using JavaScript
 
-About Codewars
+## About Codewars
 Let's see Codewars's defenition from Codewars wiki:
 
 Codewars is a community of developers, who are called Code Warriors (or just warriors), that train on improving their development skills. Think of it like a coding dojo - where developers train with each other and help each other get better through practice.
 
-Leveling System
+## Leveling System
 
 ![CodeWars levels](https://i.imgur.com/Vm77XMv.png)
